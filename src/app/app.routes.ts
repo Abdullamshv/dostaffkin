@@ -6,7 +6,7 @@ import { Track } from './pages/track/track';
 export const routes: Routes = [
 
     {
-        path: 'home',
+        path: '',
         component: Home
     },
     {
